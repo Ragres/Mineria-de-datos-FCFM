@@ -8,4 +8,5 @@
 [Ejercicio de bases de datos](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/AnalisisBD_1821920.pdf)  
 [Ejercicios practicos de python](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/PythonBasico_1821920.ipynb)  
 [Avance1_PIA_04_Gpo002.pdf](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Avance1_PIA_04_Gpo002.pdf)  
-[Ejercicio de visualizacion](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Ejercicio_Visualizacio%CC%81n_Equipo4.ipynb)
+[Ejercicio de visualizacion](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Ejercicio_Visualizacio%CC%81n_Equipo4.ipynb)  
+[Ejercicio de limpieza](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Practica_1_Limpieza.ipynb)
